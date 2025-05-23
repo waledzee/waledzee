@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waled Abdelrahman</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **laravel backend development**
+- 💬 Ask me about ** backend development**
 
 - 📫 How to reach me **waledzaki201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lsAxPUEETe8gR-LPERPziFYPCSIQW56G/view?usp=sharing](https://drive.google.com/file/d/1lsAxPUEETe8gR-LPERPziFYPCSIQW56G/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
